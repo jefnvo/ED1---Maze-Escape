@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1466987270 source:c:\users\jefferson\documents\aed\projectmaze\main.c
+	"maze.h"
+
+1466987346 source:c:\users\jefferson\documents\aed\projectmaze\maze.c
+	"maze.h"
+
+1466340096 source:c:\users\jefferson\documents\aed\projectmaze\queue.c
+
+1466956761 source:c:\users\jefferson\documents\aed\projectmaze\stack.c
+	"stack.h"
+	"list.h"
+
+1466953587 c:\users\jefferson\documents\aed\projectmaze\stack.h
+	<stdlib.h>
+	<stdio.h>
+
+1466338128 c:\users\jefferson\documents\aed\projectmaze\queue.h
+	<stdlib.h>
+	"list.h"
+
+1466341773 source:c:\users\jefferson\documents\aed\projectmaze\list.c
+
+1466344844 c:\users\jefferson\documents\aed\projectmaze\list.h
+
+1466987238 c:\users\jefferson\documents\aed\projectmaze\maze.h
+	<stdlib.h>
+	<stdio.h>
+	"stack.h"
+
+1466985621 source:c:\users\jefferson\documents\aed\projectmaze\engine.c
+	"engine.h"
+
+1466979802 c:\users\jefferson\documents\aed\projectmaze\engine.h
+	"maze.h"
+	<stdio.h>
+	<stdlib.h>
+
+1466985622 source:g:\projectmaze\engine.c
+	"engine.h"
+
+1466979804 g:\projectmaze\engine.h
+	"maze.h"
+	<stdio.h>
+	<stdlib.h>
+
+1466994660 g:\projectmaze\maze.h
+	<stdlib.h>
+	<stdio.h>
+	"stack.h"
+
+1466953588 g:\projectmaze\stack.h
+	<stdlib.h>
+	<stdio.h>
+
+1466341774 source:g:\projectmaze\list.c
+
+1466994666 source:g:\projectmaze\main.c
+	"maze.h"
+
+1466956762 source:g:\projectmaze\stack.c
+	"stack.h"
+	"list.h"
+
+1466344846 g:\projectmaze\list.h
+
+1466994720 source:g:\projectmaze\maze.c
+	"maze.h"
+
